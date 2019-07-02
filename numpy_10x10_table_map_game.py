@@ -1,3 +1,11 @@
+#!usr/bin/env python
+
+# -*- coding:utf-8 -*-
+
+# _*_ coding:cp1254 _*_
+
+#Ahmed Demirezen Feezx1
+
 import numpy as np
 import keyboard as kb
 import time
