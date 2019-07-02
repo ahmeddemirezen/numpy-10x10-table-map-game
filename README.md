@@ -1,7 +1,7 @@
 # Python 3.7 Game With Numpy
 ## Needed Librarys
 Numpy--Keyboard--Time
-## Setup
+## Installation
 ```
 pip install numpy
 pip install keyboard
