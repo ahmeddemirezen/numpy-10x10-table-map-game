@@ -4,7 +4,7 @@
 
 # _*_ coding:cp1254 _*_
 
-#Ahmed Demirezen Feezx1
+#Ahmed Demirezen 
 
 import numpy as np
 import keyboard as kb
