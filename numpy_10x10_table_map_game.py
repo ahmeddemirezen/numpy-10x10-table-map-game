@@ -21,9 +21,12 @@ harita=np.array(liste).reshape(10,10)#mapi row ve column bicimine donusturme
 
 print("Map yukleniyor\n",harita)
 
-baslangic=input("Lutfen baslamak istediginiz konumu giriniz.Ornegin=(5,3).Not=map 10x10 buyuklugundedir\n")
+b_koordinat=[]
+take_x=input("x noktasi\n")
+b_koordinat.append(take_x)
+take_y=input("y noktasi\n")
+b_koordinat.append(take_y)
 
-b_koordinat=baslangic.split(",")#map koordinat listeleme islemi
 try:
     
     
